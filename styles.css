@@ -1,1 +1,19 @@
-/* your code */
+ tr {
+            text-align: center;
+        }
+
+        table {
+            border: 2px inset red;
+            border-radius: 10px;
+        }
+
+        td {
+            padding: 5px;
+            border: 2px inset rebeccapurple;
+        }
+
+        th {
+            border: 2px inset rebeccapurple;
+            padding: 2px;
+            background-color: aqua;
+        }
